@@ -1,0 +1,6 @@
+{
+  	"rules": {
+          "no-unused-vars": [2, {"vars": "all", "varsIgnorePattern": "[iI]gnore"}]
+  	},
+	"extends": "react-app"
+}
